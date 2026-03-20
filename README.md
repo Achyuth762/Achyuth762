@@ -77,9 +77,7 @@ achyuth = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achyuth762&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e2b96f&icon_color=e2b96f"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuth762&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e2b96f"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achyuth762&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e2b96f&icon_color=e2b96f"/>
 
 </div>
 
