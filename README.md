@@ -118,19 +118,7 @@ achyuth = {
 
 <div align="center">
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achyuth762&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e2b96f&line=e2b96f&point=ffffff)
-```
 
----
-
-## 🔍 Also do a full find & replace in your README:
-
-Open README.md → edit → use **Ctrl+H** (find & replace) if available, or manually find every place that says:
-```
-YOUR_GITHUB_USERNAME
-```
-and replace with:
-```
-Achyuth762
 
 </div>
 
