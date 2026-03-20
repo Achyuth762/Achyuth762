@@ -93,7 +93,7 @@ achyuth = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Achyuth762&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Achyuth762&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6)
 
 </div>
 
@@ -103,8 +103,8 @@ achyuth = {
 ## 📈 Contribution Graph
 
 <div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achyuth762&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e2b96f&line=e2b96f&point=ffffff)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achyuth762&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e2b96f&line=e2b96f&point=ffffff" width="100%"/>
 
 </div>
 
