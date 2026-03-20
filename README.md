@@ -93,10 +93,9 @@ achyuth = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Achyuth762&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=Achyuth762&theme=dark&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
 
 </div>
-
 
 
 ---
