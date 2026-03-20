@@ -89,16 +89,7 @@ achyuth = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Achyuth762&theme=dark&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
-
-</div>
-
-
----
 
 ## 📈 Contribution Graph
 
