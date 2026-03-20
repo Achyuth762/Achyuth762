@@ -73,15 +73,15 @@ achyuth = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e2b96f&icon_color=e2b96f"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achyuth762&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e2b96f&icon_color=e2b96f"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e2b96f"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuth762&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e2b96f"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=E2B96F&fire=E2B96F&currStreakLabel=E2B96F)
+![GitHub Streak](https://streak-stats.demolab.com?user=Achyuth762&theme=tokyonight&hide_border=true&background=0D1117&ring=E2B96F&fire=E2B96F&currStreakLabel=E2B96F)
 
 </div>
 
@@ -91,25 +91,9 @@ achyuth = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Achyuth762&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🧠 **[Deep Learning Diagnostics](#)** | AI-powered medical diagnostic system using deep learning | Python, TensorFlow, FastAPI |
-| 🌐 **[Full-Stack Web App](#)** | End-to-end web application with modern UI/UX | React, Node.js, MongoDB |
-| 📊 **[ML Pipeline](#)** | Automated ML workflow with model training & deployment | PyTorch, Docker, AWS |
-| 🔍 **[Computer Vision Project](#)** | Real-time object detection and classification | OpenCV, YOLO, Python |
-
-</div>
-
 
 
 ---
@@ -151,7 +135,7 @@ achyuth = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=e2b96f&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Achyuth762&color=e2b96f&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
