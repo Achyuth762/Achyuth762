@@ -18,7 +18,7 @@
 achyuth = {
     "name"        : "Achyuth U S",
     "location"    : "Bengaluru, India 🇮🇳",
-    "role"        : "Full-Stack Developer & AI Engineer",
+    "role"        : "Full-Stack Developer, AI & Deep Learning Enthusiast",
     "building"    : ["Deep Learning Diagnostics", "Full-Stack Web Systems"],
     "learning"    : ["LLMs", "MLOps", "System Design"],
     "ask_me_about": ["Web Dev", "AI/ML", "Open Source", "Clean Architecture"],
