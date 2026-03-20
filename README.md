@@ -110,7 +110,7 @@ achyuth = {
 
 </div>
 
-> 📌 *Replace `#` links above with your actual repo URLs*
+
 
 ---
 
@@ -128,17 +128,9 @@ achyuth = {
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
 ![Snake](https://raw.githubusercontent.com/Achyuth762/Achyuth762/dist/ocean.gif)
 
 </div>
-
-</div>
-
-> ⚙️ *To enable the snake, set up [this GitHub Action](https://github.com/Platane/snk)*
 
 ---
 
