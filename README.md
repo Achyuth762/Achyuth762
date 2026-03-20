@@ -1,8 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Achyuth%20U%20S&fontSize=60&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Deep%20Learning&descAlignY=58&descColor=fff)
+# 👨‍💻 Achyuth U S
+
+### Full-Stack Developer | AI & Deep Learning Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E2B96F&center=true&vCenter=true&width=600&lines=Building+things+that+think;Full-Stack+%2B+AI+Developer;Deep+Learning+Diagnostics;Clean+Code+%2B+Intelligent+Systems)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=Achyuth762&color=e2b96f&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
