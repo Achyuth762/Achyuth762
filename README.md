@@ -128,7 +128,7 @@ achyuth = {
 
 <div align="center">
 
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/dist/github-snake-dark.svg)
 
 </div>
 
