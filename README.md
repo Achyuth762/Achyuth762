@@ -101,16 +101,6 @@ achyuth = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/Achyuth762/Achyuth762/dist/ocean.gif)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
