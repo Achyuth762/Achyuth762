@@ -2,7 +2,7 @@
 
 <h1>Achyuth U S</h1>
 
-<p><strong>Full-Stack Developer &nbsp;·&nbsp; AI & Deep Learning Engineer</strong></p>
+<p><strong>Full-Stack Developer &nbsp;·&nbsp; AI & Deep Learning Enthusiast</strong></p>
 
 <p><em>Building systems that are both intelligent and maintainable &nbsp;·&nbsp; Bengaluru, India</em></p>
 
@@ -14,7 +14,7 @@
 
 ```javascript
 const achyuth = {
-  role    : "Full-Stack Developer & AI Engineer",
+  role    : "Full-Stack Developer & AI Enthusiast",
   focus   : ["Deep Learning Diagnostics", "LLM Applications", "System Design"],
   stack   : ["Java", "Python", "React", "FastAPI", "PyTorch"],
   learning: ["MLOps", "LLM Fine-tuning", "Distributed Systems"],
