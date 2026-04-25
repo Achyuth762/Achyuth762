@@ -1,12 +1,18 @@
+<!--
+  GitHub sanitizes most CSS and inline styles, but does allow
+  basic HTML tags. This README uses table-based layout with
+  styled <kbd> tags to get the clean pill look without shields.io
+-->
+
 <div align="center">
 
-# Achyuth U S
+<h1>Achyuth U S</h1>
 
-**Full-Stack Developer · AI & Deep Learning Engineer**
+<p><strong>Full-Stack Developer &nbsp;·&nbsp; AI & Deep Learning Engineer</strong></p>
 
-*Building systems that are both intelligent and maintainable · Bengaluru, India*
+<p><em>Building systems that are both intelligent and maintainable &nbsp;·&nbsp; Bengaluru, India</em></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Achyuth762&color=586069&style=flat-square&label=profile+views)
+<img src="https://komarev.com/ghpvc/?username=Achyuth762&color=586069&style=flat-square&label=profile+views" alt="profile views"/>
 
 </div>
 
@@ -23,35 +29,40 @@ const achyuth = {
 
 ---
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-
-**Data & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>LANGUAGES</strong><br/><br/>
+      <kbd>Java</kbd> &nbsp;<kbd>Python</kbd> &nbsp;<kbd>JavaScript</kbd> &nbsp;<kbd>C++</kbd> &nbsp;<kbd>SQL</kbd>
+    </td>
+    <td valign="top" width="50%">
+      <strong>FRONTEND</strong><br/><br/>
+      <kbd>React</kbd> &nbsp;<kbd>Next.js</kbd> &nbsp;<kbd>Tailwind</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>BACKEND</strong><br/><br/>
+      <kbd>FastAPI</kbd> &nbsp;<kbd>Node.js</kbd> &nbsp;<kbd>Django</kbd>
+    </td>
+    <td valign="top">
+      <strong>AI / ML</strong><br/><br/>
+      <kbd>PyTorch</kbd> &nbsp;<kbd>HuggingFace</kbd> &nbsp;<kbd>OpenCV</kbd> &nbsp;<kbd>scikit-learn</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>DATA & CLOUD</strong><br/><br/>
+      <kbd>PostgreSQL</kbd> &nbsp;<kbd>MongoDB</kbd> &nbsp;<kbd>AWS</kbd> &nbsp;<kbd>Docker</kbd> &nbsp;<kbd>Firebase</kbd>
+    </td>
+    <td valign="top">
+      <strong>TOOLS</strong><br/><br/>
+      <kbd>Git</kbd> &nbsp;<kbd>Postman</kbd> &nbsp;<kbd>Figma</kbd> &nbsp;<kbd>VS Code</kbd>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,6 +86,8 @@ const achyuth = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achyuthus20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Achyuth762)
 
-*"Building things that think — one commit at a time."*
+<br/>
+
+<em>"Building things that think — one commit at a time."</em>
 
 </div>
