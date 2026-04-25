@@ -1,9 +1,3 @@
-<!--
-  GitHub sanitizes most CSS and inline styles, but does allow
-  basic HTML tags. This README uses table-based layout with
-  styled <kbd> tags to get the clean pill look without shields.io
--->
-
 <div align="center">
 
 <h1>Achyuth U S</h1>
@@ -29,40 +23,42 @@ const achyuth = {
 
 ---
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <strong>LANGUAGES</strong><br/><br/>
+    <td align="center" width="50%" style="background-color:#1a1209;border:1px solid #7c4a1a;border-radius:8px;padding:16px">
+      <strong>🟠 LANGUAGES</strong><br/><br/>
       <kbd>Java</kbd> &nbsp;<kbd>Python</kbd> &nbsp;<kbd>JavaScript</kbd> &nbsp;<kbd>C++</kbd> &nbsp;<kbd>SQL</kbd>
     </td>
-    <td valign="top" width="50%">
-      <strong>FRONTEND</strong><br/><br/>
+    <td align="center" width="50%" style="background-color:#0d1a14;border:1px solid #1a6644;border-radius:8px;padding:16px">
+      <strong>🟢 FRONTEND</strong><br/><br/>
       <kbd>React</kbd> &nbsp;<kbd>Next.js</kbd> &nbsp;<kbd>Tailwind</kbd>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>BACKEND</strong><br/><br/>
+    <td align="center" style="background-color:#0f1220;border:1px solid #2d3a8a;border-radius:8px;padding:16px">
+      <strong>🔵 BACKEND</strong><br/><br/>
       <kbd>FastAPI</kbd> &nbsp;<kbd>Node.js</kbd> &nbsp;<kbd>Django</kbd>
     </td>
-    <td valign="top">
-      <strong>AI / ML</strong><br/><br/>
+    <td align="center" style="background-color:#1a0d1a;border:1px solid #7a2e8a;border-radius:8px;padding:16px">
+      <strong>🟣 AI / ML</strong><br/><br/>
       <kbd>PyTorch</kbd> &nbsp;<kbd>HuggingFace</kbd> &nbsp;<kbd>OpenCV</kbd> &nbsp;<kbd>scikit-learn</kbd>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>DATA & CLOUD</strong><br/><br/>
+    <td align="center" style="background-color:#1a1209;border:1px solid #8a5a1a;border-radius:8px;padding:16px">
+      <strong>🟡 DATA & CLOUD</strong><br/><br/>
       <kbd>PostgreSQL</kbd> &nbsp;<kbd>MongoDB</kbd> &nbsp;<kbd>AWS</kbd> &nbsp;<kbd>Docker</kbd> &nbsp;<kbd>Firebase</kbd>
     </td>
-    <td valign="top">
-      <strong>TOOLS</strong><br/><br/>
+    <td align="center" style="background-color:#0a1a1a;border:1px solid #1a6a6a;border-radius:8px;padding:16px">
+      <strong>🩵 TOOLS</strong><br/><br/>
       <kbd>Git</kbd> &nbsp;<kbd>Postman</kbd> &nbsp;<kbd>Figma</kbd> &nbsp;<kbd>VS Code</kbd>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
