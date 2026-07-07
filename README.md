@@ -30,7 +30,7 @@ const achyuth = {
   <tr>
     <td align="center" width="50%" style="background-color:#1a1209;border:1px solid #7c4a1a;border-radius:8px;padding:16px">
       <strong>🟠 LANGUAGES</strong><br/><br/>
-      <kbd>Java</kbd> &nbsp;<kbd>Python</kbd> &nbsp;<kbd>JavaScript</kbd> &nbsp;<kbd>C++</kbd> &nbsp;<kbd>SQL</kbd>
+      <kbd>Java</kbd> &nbsp;<kbd>Python</kbd> &nbsp;<kbd>JavaScript</kbd> &nbsp;<kbd>C</kbd> &nbsp;<kbd>SQL</kbd>
     </td>
     <td align="center" width="50%" style="background-color:#0d1a14;border:1px solid #1a6644;border-radius:8px;padding:16px">
       <strong>🟢 FRONTEND</strong><br/><br/>
@@ -50,7 +50,7 @@ const achyuth = {
   <tr>
     <td align="center" style="background-color:#1a1209;border:1px solid #8a5a1a;border-radius:8px;padding:16px">
       <strong>🟡 DATA & CLOUD</strong><br/><br/>
-      <kbd>PostgreSQL</kbd> &nbsp;<kbd>MongoDB</kbd> &nbsp;<kbd>AWS</kbd> &nbsp;<kbd>Docker</kbd> &nbsp;<kbd>Firebase</kbd>
+      <kbd>PostgreSQL</kbd> &nbsp;<kbd>MongoDB</kbd> &nbsp;<kbd>AWS</kbd> &nbsp;<kbd>Firebase</kbd>
     </td>
     <td align="center" style="background-color:#0a1a1a;border:1px solid #1a6a6a;border-radius:8px;padding:16px">
       <strong>🩵 TOOLS</strong><br/><br/>
