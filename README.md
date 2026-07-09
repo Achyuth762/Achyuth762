@@ -84,6 +84,6 @@ const achyuth = {
 
 <br/>
 
-<em>"Building things that think — one commit at a time."</em>
+<em>"Building things that think - one commit at a time."</em>
 
 </div>
